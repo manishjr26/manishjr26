@@ -1,9 +1,9 @@
 ![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)
 <h1 align="center">Hi 👋, I'm Manish JR</h1>
 <h3 align="center">A passionate frontend Developer from India .</h3>
-<img align="right" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="full stack">
+<img align="right" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="full stack">  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishjr26&label=Profile%20views&color=0e75b6&style=flat" alt="manishjr26" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishjr26&label=Profile%20views&color=0e75b6&style=flat" alt="manishjr26" /> </p> -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishjr26" alt="manishjr26" /></a> </p> -->
 
